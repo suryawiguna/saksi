@@ -1,0 +1,101 @@
+body,html {
+  height: 100%;
+}
+
+nav {
+  background-color: #1f3983;
+}
+
+thead {
+  background-color: #1976D2;
+}
+
+.btn-tambahData {
+  background-color: #f6ab02;
+  color: #fff;
+}
+.btn-tambahData:hover{
+  background-color: #ffb91e;
+  color: #fff;
+}
+
+.btn-keluar {
+  background-color: #e20f0f;
+  color: #fff;
+}
+.btn-keluar:hover{
+  background-color: #f91616;
+  color: #fff;
+}
+
+.btn-input {
+  color: #fff;
+}
+
+.btn-input:hover {
+  color: #fff;
+}
+
+
+.btn-index {
+  height: 100px;
+  padding: 35px;
+}
+
+
+.dropdown {
+  margin: 0 auto;
+}
+
+.dropdown-menu {
+  width: 100%;
+  max-height: 20rem;
+  overflow-y: auto;
+}
+
+
+#tps-btn {
+  margin: 4px 4px;
+}
+
+#action-btn {
+  width: 80px;
+  margin: 8px 8px;
+}
+
+#search {
+  margin: 10px;
+}
+
+.nav-space {
+  margin: 5px;
+}
+
+
+/* Back to top button */
+
+
+
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+#footer {
+  background: #000;
+  padding: 0 0 20px 0;
+  color: #eee;
+  font-size: 14px;
+}
+
+#footer .copyright {
+  text-align: center;
+}
+
+#footer .credits {
+  text-align: center;
+  font-size: 13px;
+  color: #ddd;
+}
+
+.percent-font{
+  font-size: 55px;
+}
